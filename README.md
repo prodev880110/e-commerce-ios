@@ -4,16 +4,6 @@
 
 This is a basic e-commerce app, including an additional targen for the Admin app that allows you to add edit and remove products and categories. This project is done as a submission project for the graduation course of iOS application development.
 
-<h3>Screenshots Client Side</h3>
-
-<img src="https://raw.githubusercontent.com/avi-aminov/ecommerce-app/main/images_helper/shop.jpg" alt="Screens" style="max-width:100%;">
-
-<br>
-
-<h3>Screenshots Admin Side</h3>
-
-<img src="https://raw.githubusercontent.com/avi-aminov/ecommerce-app/main/images_helper/admin.jpg" alt="Screens" style="max-width:100%;">
-
 <h1>Getting started</h1>
 
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. </p>
@@ -32,7 +22,7 @@ Download the project folder or clone the repo.
 
 <pre>
 <code>
-git clone https://github.com/avi-aminov/ecommerce-app.git
+git clone https://github.com/prodev880110/e-commerce-ios.git
 </code>
 </pre>
 
@@ -45,17 +35,11 @@ git clone https://github.com/avi-aminov/ecommerce-app.git
     add GoogleService-Info.plist to project 
 </p>
 
-
-<img src="https://raw.githubusercontent.com/avi-aminov/ecommerce-app/main/images_helper/firebase.png" alt="Screens"  style="width:300px;">
-
 <p>
    in Authentication enable Email/Password<br>
     and open option Cloud Firestore
 </p>
-<img src="https://raw.githubusercontent.com/avi-aminov/ecommerce-app/main/images_helper/auth.png"  alt="Screens" style="width:300px;">
-    
-<img src="https://raw.githubusercontent.com/avi-aminov/ecommerce-app/main/images_helper/db.png" alt="Screens" style="width:300px;">
-    
+
 <br>
     
 <h3>CocoaPods</h3>
@@ -75,9 +59,5 @@ git clone https://github.com/avi-aminov/ecommerce-app.git
   in PayPal business acount create demo user (senbox user), and  linked to a Braintree user in Braintree dashboard
 </p>
 
-<p>
-  replace yuor authorization sandbox key
-</p>
-<img src="https://raw.githubusercontent.com/avi-aminov/ecommerce-app/main/images_helper/senbox.png"  alt="Screens" style="max-width:100%;">
 
 
